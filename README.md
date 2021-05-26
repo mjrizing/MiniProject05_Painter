@@ -1,4 +1,4 @@
-# MiniProject05_Painter
+# MiniProject05_Painter🎨
 最近絵を描くことを覚えた娘のために
 スケッチブックのように絵をかける簡単なプログラムを作ってみたい！
 
